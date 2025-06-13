@@ -75,6 +75,8 @@ This web application allows users to rate stores registered on the platform. It 
 -   **Apply Filters:** Allows filtering of store and user listings based on various criteria.
 -   **View User Details:** Shows complete information for individual users.
 
+![WhatsApp Image 2025-06-13 at 15 56 36_58782617](https://github.com/user-attachments/assets/5ddf8aa0-43fd-42ff-ba21-c54b405d09cc)
+
 ### Normal User
 
 -   **Signup:** Registration form for new users.
