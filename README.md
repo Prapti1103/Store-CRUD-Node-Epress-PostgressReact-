@@ -106,6 +106,12 @@ This web application allows users to rate stores registered on the platform. It 
 -   All relevant tables in the SQL database should support sorting (ascending/descending) for key fields like Name and Email.
 -   The project should adhere to best practices for both frontend (React, Context API, Tailwind) and backend (Express.js MVC, SQL) development.
 -   The database schema should be well-designed and follow best practices for relational databases.
-![admin-profile(2)](https://github.com/user-attachments/assets/d90ce47a-1ef5-4a90-87df-3c738f6d0709)
+![admin-profile(2)](https://github.com/user-attachments/assets![admin-dashboard(1)](https://github.com/user-attachments/assets/69fa1741-a60b-4ed4-a90e-f13931d59eee)
+/d90ce47a-1ef5-4a90-87df-3c738f6d0709)![Login](https://github.com/user-attachments/assets/9b57833d-61d7-4dd6-9a18-7d8a887fb827)![Register](https://github.com/user-attachments/assets/98bba977-cb55-444f-9bbc-55aa8ace1293)
+![StoreDash](https://github.com/user-attachments/assets/48c1e195-c533-4623-9223-cfda0a7a7f04)
+![StoreRatings](https://github.com/user-attachments/assets/43f468ce-bd69-47ed-88d9-e9c7e3a573c5)
+![Users](https://github.com/user-attachments/assets/83ad29e3-a4cf-4fed-a27f-c824d8f91533)
+
+
 
 **Important:** Please replace the placeholder image URLs (`[Insert Image URL Here]`) with the actual URLs of your images to visualize the application's features. You can use services like Imgur, Cloudinary, or any other image hosting platform to obtain these URLs.
