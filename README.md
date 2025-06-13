@@ -77,6 +77,7 @@ This web application allows users to rate stores registered on the platform. It 
 
 ![WhatsApp Image 2025-06-13 at 15 56 36_58782617](https://github.com/user-attachments/assets/5ddf8aa0-43fd-42ff-ba21-c54b405d09cc)
 
+
 ### Normal User
 
 -   **Signup:** Registration form for new users.
@@ -105,5 +106,6 @@ This web application allows users to rate stores registered on the platform. It 
 -   All relevant tables in the SQL database should support sorting (ascending/descending) for key fields like Name and Email.
 -   The project should adhere to best practices for both frontend (React, Context API, Tailwind) and backend (Express.js MVC, SQL) development.
 -   The database schema should be well-designed and follow best practices for relational databases.
+![admin-profile(2)](https://github.com/user-attachments/assets/d90ce47a-1ef5-4a90-87df-3c738f6d0709)
 
 **Important:** Please replace the placeholder image URLs (`[Insert Image URL Here]`) with the actual URLs of your images to visualize the application's features. You can use services like Imgur, Cloudinary, or any other image hosting platform to obtain these URLs.
